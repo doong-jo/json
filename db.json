@@ -1,0 +1,32 @@
+{
+  "weather": [
+    {
+      "sky": "구름",
+      "temperature": 20
+    }, {
+      "sky": "맑음",
+      "temperature": 22
+    }, {
+      "sky": "비",
+      "temperature": 18
+    }, {
+      "sky": "맑음",
+      "temperature": 22
+    }, {
+      "sky": "맑음",
+      "temperature": 24
+    }, {
+      "sky": "비",
+      "temperature": 15
+    }, {
+      "sky": "맑음",
+      "temperature": 17
+    }
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ]
+}
+  
